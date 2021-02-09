@@ -8,7 +8,6 @@ terraform {
     organization = "its-training-workshop"
     workspaces {
       name = "hashicat-aws"
-      
     }
   }
 }
